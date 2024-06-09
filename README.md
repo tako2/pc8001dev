@@ -8,7 +8,7 @@ SDCC (https://sdcc.sourceforge.net/) の他に以下のツールをインスト�
 このプロジェクトの tools の下に実行ファイルが置かれることを前提にしています。
 (パスの通ったところにある場合、Makefile を適宜修正してください。)
 
-- hex2bin (https://ja.osdn.net/projects/sfnet_hex2bin/)
+- hex2bin (https://sourceforge.net/projects/hex2bin/)
 
 SDCC ではインテル HEX が出力されるので、これをバイナリに変換するのに使います。
 
